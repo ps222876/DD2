@@ -1,0 +1,45 @@
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.exe
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.deps.json
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.runtimeconfig.json
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.pdb
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.csproj.AssemblyReference.cache
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.AssemblyInfoInputs.cache
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.AssemblyInfo.cs
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.csproj.CoreCompileInputs.cache
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\refint\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.pdb
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.genruntimeconfig.cache
+C:\School\Leerjaar2\Desktop development\Desktop development 2\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\ref\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.csproj.AssemblyReference.cache
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.AssemblyInfoInputs.cache
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.AssemblyInfo.cs
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.csproj.CoreCompileInputs.cache
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\refint\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.pdb
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.exe
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.deps.json
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.runtimeconfig.json
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.pdb
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.genruntimeconfig.cache
+C:\School\Leerjaar2\Desktop development\eindopdracht\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\ref\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.exe
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.deps.json
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.runtimeconfig.json
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\bin\Debug\net6.0\Eindopdracht_DD2.pdb
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.csproj.AssemblyReference.cache
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.AssemblyInfoInputs.cache
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.AssemblyInfo.cs
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.csproj.CoreCompileInputs.cache
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\refint\Eindopdracht_DD2.dll
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.pdb
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\Eindopdracht_DD2.genruntimeconfig.cache
+C:\School\Leerjaar2\Desktop development\Desktop development 2\Eindopdracht_DD2\Eindopdracht_DD2\obj\Debug\net6.0\ref\Eindopdracht_DD2.dll
